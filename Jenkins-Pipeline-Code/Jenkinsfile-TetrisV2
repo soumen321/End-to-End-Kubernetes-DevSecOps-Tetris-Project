@@ -85,7 +85,7 @@ pipeline {
         }
         stage('Checkout Code') {
             steps {
-                git branch: 'master', url: 'https://github.com/soumen321/End-to-End-Kubernetes-DevSecOps-Tetris-Project.git'
+                git branch: 'main', url: 'https://github.com/soumen321/End-to-End-Kubernetes-DevSecOps-Tetris-Project.git'
             }
         }
         stage('Update Deployment file') {

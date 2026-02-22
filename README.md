@@ -27,7 +27,7 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AmanPathak-DevOps/End-to-End-Kubernetes-DevSecOps-Tetris-Project.git
+   Thanks to Aman Pathak and Open Source Community
 2. **Explore the Directories:**
    Navigate into each directory to find detailed scripts, pipelines, and configurations.
 

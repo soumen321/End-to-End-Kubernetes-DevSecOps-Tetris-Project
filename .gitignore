@@ -1,0 +1,32 @@
+# ---- Terraform directories ----
+.terraform/
+**/.terraform/
+
+# ---- Terraform state files ----
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+
+# ---- Terraform plan files ----
+*.tfplan
+
+# ---- Sensitive variable files ----
+terraform.tfvars
+*.tfvars.json
+
+# ---- Crash logs ----
+crash.log
+
+# ---- Override files (never commit) ----
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# ---- Local-only Terraform metadata ----
+.terraform.lock.hcl
+
+# ---- Project-specific dirs ----
+Jenkins-Server-TF/.terraform/
+EKS-TF/.terraform/
+``
